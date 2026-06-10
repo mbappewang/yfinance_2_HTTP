@@ -1,4 +1,4 @@
-# yfinance_to_golang
+# yfinance_2_Http
 
 基于 FastAPI 和 yfinance 的股票数据 HTTP API 服务。项目目标是把 yfinance 的常用数据能力包装成稳定的 JSON 接口，方便 Go 服务或其他后端系统调用。
 
