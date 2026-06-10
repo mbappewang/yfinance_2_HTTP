@@ -36,7 +36,7 @@ def get_history_metadata(symbol: str) -> dict:
 
 if __name__ == "__main__":
 
-    result = yf.Ticker("AAPL").get_dividends(period="max")
+    result = yf.Ticker("601398.SS").get_recommendations(as_dict=False)
     print(result)
     
     
