@@ -11,6 +11,7 @@ env/
 # 本地配置
 .env
 .env.*
+test.py
 
 # 测试与类型检查缓存
 .pytest_cache/

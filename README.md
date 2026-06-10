@@ -190,6 +190,10 @@ Dockerfile             镜像构建文件
 requirements.txt       Python 依赖
 ```
 
+## 许可证
+
+本项目使用 Apache License 2.0，与 yfinance 使用的 Apache Software License 保持一致。详见 [LICENSE](LICENSE)。
+
 ## 注意事项
 
 - yfinance 依赖 Yahoo Finance 数据源，数据可用性和字段结构可能随上游变化。
